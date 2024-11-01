@@ -7,7 +7,7 @@ f_website-name: robinhood.com
 slug: robinhood
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72b923d04a5f4e0227ced_Robinhood.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72b923d04a5f4e0227ced_Robinhood.png
   alt: null
 updated-on: '2023-09-05T13:22:44.087Z'
 created-on: '2023-09-05T13:22:44.087Z'

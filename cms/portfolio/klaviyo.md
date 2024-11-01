@@ -7,7 +7,7 @@ f_website-name: klaviyo.com
 slug: klaviyo
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71d76a723134849e4b2c3_klaviyo.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71d76a723134849e4b2c3_klaviyo.png
   alt: null
 updated-on: '2023-09-05T12:22:47.617Z'
 created-on: '2023-09-05T12:22:47.617Z'

@@ -7,7 +7,7 @@ f_website-name: aboutyou.com
 slug: about-you
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f708d1309acba2b5cb2a48_AboutYou.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f708d1309acba2b5cb2a48_AboutYou.png
   alt: null
 updated-on: '2023-09-05T10:54:28.643Z'
 created-on: '2023-09-05T10:54:28.643Z'

@@ -7,7 +7,7 @@ f_website-name: carbonhealth.com
 slug: carbon-health
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f715e90ff994dcd40c846c_CarbonHealth.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f715e90ff994dcd40c846c_CarbonHealth.png
   alt: null
 updated-on: '2023-09-05T11:50:28.425Z'
 created-on: '2023-09-05T11:50:28.425Z'

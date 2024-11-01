@@ -7,7 +7,7 @@ f_website-name: getsava.com
 slug: sava
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72bc935a61133b36de7fc_Sava.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72bc935a61133b36de7fc_Sava.png
   alt: null
 updated-on: '2023-09-05T13:23:27.364Z'
 created-on: '2023-09-05T13:23:27.364Z'

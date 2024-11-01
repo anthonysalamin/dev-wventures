@@ -7,7 +7,7 @@ f_website-name: givve.com
 slug: givve
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f717ab1388dab79ab9dbde_Givve.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f717ab1388dab79ab9dbde_Givve.jpg
   alt: null
 updated-on: '2023-09-05T11:57:38.798Z'
 created-on: '2023-09-05T11:57:38.798Z'

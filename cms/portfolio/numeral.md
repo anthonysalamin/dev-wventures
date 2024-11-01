@@ -7,7 +7,7 @@ f_website-name: numeralhq.com
 slug: numeral
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72a2161bc74ed13d7b6a6_numeral-logo.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72a2161bc74ed13d7b6a6_numeral-logo.jpg
   alt: null
 updated-on: '2023-09-05T13:16:35.467Z'
 created-on: '2023-09-05T13:16:35.467Z'

@@ -7,7 +7,7 @@ f_website-name: halo-industries.com
 slug: halo-industries
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71c23bd7a31e813613cd6_haloindustries.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71c23bd7a31e813613cd6_haloindustries.png
   alt: null
 updated-on: '2023-09-05T12:16:54.849Z'
 created-on: '2023-09-05T12:16:54.849Z'

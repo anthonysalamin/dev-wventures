@@ -7,7 +7,7 @@ f_website-name: freeformfuture.com
 slug: freeform
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71759d3792e59f543978d_Freeform.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71759d3792e59f543978d_Freeform.png
   alt: null
 updated-on: '2023-09-05T11:56:56.678Z'
 created-on: '2023-09-05T11:56:56.678Z'

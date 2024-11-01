@@ -7,7 +7,7 @@ f_website-name: letsdeel.com
 slug: deel
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71648e62615f9e0900f6a_Deel.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71648e62615f9e0900f6a_Deel.jpg
   alt: null
 updated-on: '2023-09-05T11:51:53.393Z'
 created-on: '2023-09-05T11:51:53.393Z'

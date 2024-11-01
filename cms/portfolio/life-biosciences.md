@@ -7,7 +7,7 @@ f_website-name: lifebiosciences.com
 slug: life-biosciences
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71dae2dddd4da8b175a89_Life%20Biosciences.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71dae2dddd4da8b175a89_Life%20Biosciences.jpg
   alt: null
 updated-on: '2023-09-05T12:23:30.634Z'
 created-on: '2023-09-05T12:23:30.634Z'

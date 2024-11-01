@@ -7,7 +7,7 @@ f_website-name: getbloomfarms.com
 slug: bloomfarms
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f7157cb4b4e0723abf6293_Bloomfarms-black.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f7157cb4b4e0723abf6293_Bloomfarms-black.jpg
   alt: null
 updated-on: '2023-09-05T11:48:34.644Z'
 created-on: '2023-09-05T11:48:34.644Z'

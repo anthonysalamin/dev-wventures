@@ -7,7 +7,7 @@ f_website-name: luqom.com
 slug: luqom-group
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f7298cff2c97c70179e4e7_LUQOM_sRGB_Logo.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f7298cff2c97c70179e4e7_LUQOM_sRGB_Logo.jpg
   alt: null
 updated-on: '2023-09-05T13:14:24.926Z'
 created-on: '2023-09-05T13:14:24.926Z'

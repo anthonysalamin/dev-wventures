@@ -7,7 +7,7 @@ f_website-name: staages.com
 slug: staages
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72c0b939880d50dd5635d_STAAGES.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72c0b939880d50dd5635d_STAAGES.jpg
   alt: null
 updated-on: '2023-09-05T13:24:50.720Z'
 created-on: '2023-09-05T13:24:50.720Z'

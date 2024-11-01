@@ -7,7 +7,7 @@ f_website-name: am-gmbh.de
 slug: am-gmbh
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f70a20e1617701d37cb3a2_AM-GmbH.gif
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f70a20e1617701d37cb3a2_AM-GmbH.gif
   alt: null
 updated-on: '2023-09-05T11:00:04.035Z'
 created-on: '2023-09-05T11:00:04.035Z'

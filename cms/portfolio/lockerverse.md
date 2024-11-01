@@ -7,7 +7,7 @@ f_website-name: lockerverse.com
 slug: lockerverse
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71e251356fd269feb0e23_lockerverse.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71e251356fd269feb0e23_lockerverse.png
   alt: null
 updated-on: '2023-09-05T13:12:47.453Z'
 created-on: '2023-09-05T13:12:47.453Z'

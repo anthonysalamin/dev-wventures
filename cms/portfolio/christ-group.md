@@ -7,7 +7,7 @@ f_website-name: christ-corporate.com
 slug: christ-group
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71613f745fe6ec45ac4db_Christ.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71613f745fe6ec45ac4db_Christ.png
   alt: null
 updated-on: '2023-09-05T11:51:13.151Z'
 created-on: '2023-09-05T11:51:13.151Z'

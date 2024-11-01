@@ -7,7 +7,7 @@ f_website-name: enter.de
 slug: enter
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f7169da865a58831d7884c_Enter.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f7169da865a58831d7884c_Enter.png
   alt: null
 updated-on: '2023-09-05T11:53:23.591Z'
 created-on: '2023-09-05T11:53:23.591Z'

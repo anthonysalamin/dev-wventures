@@ -4,7 +4,7 @@ title: REBELLE
 slug: rebelle
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72b26c41706b67ed0f793_rebelle.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72b26c41706b67ed0f793_rebelle.png
   alt: null
 updated-on: '2023-09-05T13:21:14.956Z'
 created-on: '2023-09-05T13:20:45.482Z'

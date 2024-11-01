@@ -7,7 +7,7 @@ f_website-name: kitchenadvisor.de
 slug: kitchenadvisor
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71d4ef8e1c0204d23ea81_Kitchenadvisor.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71d4ef8e1c0204d23ea81_Kitchenadvisor.png
   alt: null
 updated-on: '2023-09-05T12:21:48.902Z'
 created-on: '2023-09-05T12:21:48.902Z'

@@ -7,7 +7,7 @@ f_website-name: roadsurfer.com
 slug: roadsurfer-gmbh
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72b60f449220cd3ec8236_Roadsurfer.jpeg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72b60f449220cd3ec8236_Roadsurfer.jpeg
   alt: null
 updated-on: '2023-09-05T13:22:08.394Z'
 created-on: '2023-09-05T13:22:08.394Z'

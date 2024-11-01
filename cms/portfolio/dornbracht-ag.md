@@ -7,7 +7,7 @@ f_website-name: dornbracht.com
 slug: dornbracht-ag
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f7166f632964be01c548bb_Dornbracht.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f7166f632964be01c548bb_Dornbracht.png
   alt: null
 updated-on: '2023-09-05T11:52:36.002Z'
 created-on: '2023-09-05T11:52:36.002Z'

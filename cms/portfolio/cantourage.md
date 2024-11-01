@@ -7,7 +7,7 @@ f_website-name: cantourage.com
 slug: cantourage
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f715b7c61ce80acdf6fee4_Cantourage.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f715b7c61ce80acdf6fee4_Cantourage.jpg
   alt: null
 updated-on: '2023-09-05T11:49:36.713Z'
 created-on: '2023-09-05T11:49:36.713Z'

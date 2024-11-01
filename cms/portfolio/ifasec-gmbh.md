@@ -7,7 +7,7 @@ f_website-name: ifasec.de
 slug: ifasec-gmbh
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71d23433208ee0ca3aaf2_Ifasec.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71d23433208ee0ca3aaf2_Ifasec.png
   alt: null
 updated-on: '2023-09-05T12:21:11.917Z'
 created-on: '2023-09-05T12:21:11.917Z'

@@ -7,7 +7,7 @@ f_website-name: founderslane.com
 slug: founderslane
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f716ff1388dab79ab8b7bf_Founderlane.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f716ff1388dab79ab8b7bf_Founderlane.png
   alt: null
 updated-on: '2023-09-05T11:55:14.263Z'
 created-on: '2023-09-05T11:55:14.263Z'

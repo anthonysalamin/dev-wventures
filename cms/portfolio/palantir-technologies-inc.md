@@ -7,7 +7,7 @@ f_website-name: palantir.com
 slug: palantir-technologies-inc
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72a6ec5b5245f8b02aaff_Palantir.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72a6ec5b5245f8b02aaff_Palantir.jpg
   alt: null
 updated-on: '2023-09-05T13:17:53.425Z'
 created-on: '2023-09-05T13:17:53.425Z'

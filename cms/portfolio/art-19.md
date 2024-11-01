@@ -7,7 +7,7 @@ f_website-name: art-19.com
 slug: art-19
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71538a723134849da2a68_Art%2019.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71538a723134849da2a68_Art%2019.jpg
   alt: null
 updated-on: '2023-09-05T11:47:31.920Z'
 created-on: '2023-09-05T11:47:31.920Z'

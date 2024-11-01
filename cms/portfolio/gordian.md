@@ -7,7 +7,7 @@ f_website-name: gordian.bio
 slug: gordian
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f71bf84eb5e6a8dc832a42_gordian-new.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f71bf84eb5e6a8dc832a42_gordian-new.jpg
   alt: null
 updated-on: '2023-09-05T12:16:10.377Z'
 created-on: '2023-09-05T12:16:10.377Z'

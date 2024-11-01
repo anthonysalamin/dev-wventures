@@ -7,7 +7,7 @@ f_website-name: ydeon.com
 slug: ydeon
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72c3236a5c42f4d0cf8a0_ydeon.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72c3236a5c42f4d0cf8a0_ydeon.png
   alt: null
 updated-on: '2023-09-05T13:25:21.453Z'
 created-on: '2023-09-05T13:25:21.453Z'

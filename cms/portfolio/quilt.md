@@ -7,7 +7,7 @@ f_website-name: quilt.com
 slug: quilt
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72a914eb5e6a8dc96bf52_Quilt.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72a914eb5e6a8dc96bf52_Quilt.jpg
   alt: null
 updated-on: '2023-09-05T13:18:26.448Z'
 created-on: '2023-09-05T13:18:26.448Z'

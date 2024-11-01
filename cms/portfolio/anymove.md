@@ -7,7 +7,7 @@ f_website-name: anymove.app
 slug: anymove
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f715039bbdbdffc36ec072_anymove.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f715039bbdbdffc36ec072_anymove.png
   alt: null
 updated-on: '2023-09-05T11:46:31.801Z'
 created-on: '2023-09-05T11:46:31.801Z'

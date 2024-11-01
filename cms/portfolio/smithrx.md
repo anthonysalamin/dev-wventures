@@ -7,7 +7,7 @@ f_website-name: smithrx.com
 slug: smithrx
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72bf59ef241c244457c9f_smithrx.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72bf59ef241c244457c9f_smithrx.png
   alt: null
 updated-on: '2023-09-05T13:24:10.957Z'
 created-on: '2023-09-05T13:24:10.957Z'

@@ -7,7 +7,7 @@ f_website-name: noibu.com
 slug: noibu
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f729faaf8384758c9d8953_noibu.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f729faaf8384758c9d8953_noibu.png
   alt: null
 updated-on: '2023-09-05T13:16:00.456Z'
 created-on: '2023-09-05T13:16:00.456Z'

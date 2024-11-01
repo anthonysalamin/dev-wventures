@@ -7,7 +7,7 @@ f_website-name: formlogic.com
 slug: formlogic
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f716df2f8591aafae41fcf_Formlogic.png
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f716df2f8591aafae41fcf_Formlogic.png
   alt: null
 updated-on: '2023-09-05T11:54:14.247Z'
 created-on: '2023-09-05T11:54:14.247Z'

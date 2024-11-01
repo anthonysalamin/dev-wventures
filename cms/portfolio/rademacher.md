@@ -7,7 +7,7 @@ f_website-name: rademacher.de
 slug: rademacher
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72ab4e9c900e8d6480a05_Rademacher.jpg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72ab4e9c900e8d6480a05_Rademacher.jpg
   alt: null
 updated-on: '2023-09-05T13:19:03.757Z'
 created-on: '2023-09-05T13:19:03.757Z'

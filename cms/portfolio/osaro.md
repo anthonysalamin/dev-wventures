@@ -7,7 +7,7 @@ f_website-name: osaro.com
 slug: osaro
 f_logotype:
   url: >-
-    https://uploads-ssl.webflow.com/64f7085279693bcfdc730ee3/64f72a44c3665a5933b9fe6d_Osaro.jpeg
+    https://cdn.prod.website-files.com/64f7085279693bcfdc730ee3/64f72a44c3665a5933b9fe6d_Osaro.jpeg
   alt: null
 updated-on: '2023-09-05T13:17:10.298Z'
 created-on: '2023-09-05T13:17:10.298Z'
